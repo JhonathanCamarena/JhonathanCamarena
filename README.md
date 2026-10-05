@@ -9,9 +9,10 @@ Me interesa el mundo de las redes y la programación. Estoy en etapa de formaci�
 - **Lenguaje:** C
 - **Control de versiones:** Git y GitHub
 - **Herramientas:** Word, Canva
-
 ## 📂 Proyectos destacados
-- *(aquí van los enlaces a tus repositorios cuando los subas)*
+- [Suma de salarios de profesores](https://github.com/JhonathanCamarena/suma-salarios-profesores-c): cálculo del total de salarios con ciclo `while`.
+- [Aumento salarial](https://github.com/JhonathanCamarena/aumento-salarial-c): cálculo de aumentos con estructuras `if / else`.
+- [Paquetería Xpress](https://github.com/JhonathanCamarena/paqueteria-xpress-c): precio de envío por zona con `switch`.
 
 ## 🌱 Estoy aprendiendo
 - Programación en C
