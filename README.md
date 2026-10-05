@@ -21,12 +21,3 @@ Me interesa el mundo de las redes y la programación. Estoy en etapa de formaci�
 ## 📫 Contacto
 - 📧 Correo: jhonathancamarena893@gmail.com
 - 💼 LinkedIn: [Jhonathan Camarena](https://www.linkedin.com/in/jhonathan-patricio-camarena-ramos-b2b06b396)
-Ingrese el salario del profesor 3: 1000
-El total de salarios de los 3 profesores es: 2700.00
-```
-
-## Captura de pantalla
-*(agrega aquí tu captura del programa funcionando)*
-
-## Autor
-Jhonathan Camarena, estudiante de Licenciatura en Redes Informáticas, UTP.
